@@ -1,0 +1,19 @@
+#ik_fb_widget .ik_fb_facebook_image{
+	height: 165px;
+	overflow:hidden;
+}
+#ik_fb_widget .ik_fb_feed_item img{
+max-width:100%;
+position: relative;
+top: -70px;
+}
+.ik_fb_feed_item > p:first-child{
+/*display:none;*/
+}
+
+.ik_fb_feed_window{
+border:none !important;
+overflow-y:inherit !important;
+}
+
+.ik_fb_facebook_description{font-size: 14px;}
